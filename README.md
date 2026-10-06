@@ -1,4 +1,4 @@
-#Analisi degli incidenti stradali in Italia (dati ISTAT)
+# Road accident analysis in Italy (ISTAT data)
 
-##Obiettivo
-Individuare i comuni italiani con il rischio più alto di incidenti stradali, per capire dove conviene investire in sicurezza stradale.
+## Goal
+Identify the italian municipalities with the highest road accident risk to understand where to invest in road safety would have the greatest impact.
