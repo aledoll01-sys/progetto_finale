@@ -1,2 +1,5 @@
-#Ambiente virtuale Python 
-.venv/
+# Virtual environment Python 
+.venv
+
+# ISTAT data; it can be downloaded again from the notebook
+data/raw/istat_road_accidents.csv
