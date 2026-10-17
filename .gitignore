@@ -3,4 +3,5 @@
 
 # ISTAT data; it can be downloaded again from the notebook
 data/raw/istat_road_accidents.csv
-# processed data by year: it can be recreated by running the notebooks data/processed/accidents_by_municipality_year.csv
+# processed data by year: it can be recreated by running the notebooks 
+data/processed/accidents_by_municipality_year.csv
